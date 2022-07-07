@@ -30,6 +30,14 @@ Get your updates here!
 
 * [SSI Meetup](https://ssimeetup.org/) 
 
+## Articles
+
+A good read is worth ____
+
+* [An introduction to SSI](https://ssi-ambassador.medium.com/an-introduction-to-self-sovereign-identity-ssi-916eb42f0490)
+* [SSI: self-sovereign identity explained](https://medium.com/geekculture/ssi-self-sovereign-identity-explained-b7d8cb9ae9c0)
+* [Introduction to Self-Sovereign Identity and Its 10 Guiding Principles](https://medium.com/metadium/introduction-to-self-sovereign-identity-and-its-10-guiding-principles-97c1ba603872)
+
 ## Books:
 
 These won't always be free, but they are worth a read if you are interested in

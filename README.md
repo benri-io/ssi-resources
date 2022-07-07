@@ -9,6 +9,10 @@ Just getting started? A great place to get going is [SSI
 Meetup](https://ssimeetup.org/) to get your feet wet!
 
 ## Specifications
+
+For a beginner, these might get a little hard to understand. Give it time and
+patiences and the specifications will eventually make sense.
+
 * [W3 specs](https://www.w3.org/TR/did-core/)
 
 ## Github Organizations:
@@ -21,14 +25,23 @@ related to specs, sdk's, and public resources.
 * [TBDDev](https://github.com/TBD54566975)
 
 ## News
+
+Get your updates here!
+
 * [SSI Meetup](https://ssimeetup.org/) 
 
 ## Books:
+
+These won't always be free, but they are worth a read if you are interested in
+this space!
 
 * [A Comprehensive Guide to Self Sovereign Identity](https://www.amazon.in/Comprehensive-Guide-Self-Sovereign-Identity-ebook/dp/B07Q3TXLDP)
 * [Self Sovereign Identity](https://www.manning.com/books/self-sovereign-identity)
 
 ## Registries: 
+
+Here you can find additional places that have collated information from across
+different organizations. 
 
 * [DID Methods](https://www.w3.org/TR/did-spec-registries/#did-methods)
 

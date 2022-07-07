@@ -1,4 +1,4 @@
-# DID Resources
+# SSI Resources
 ---------------------------
 
 Interested in getting up to speed on DID's and SSI? Here's a list of useful

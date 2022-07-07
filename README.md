@@ -5,22 +5,32 @@ Interested in getting up to speed on DID's and SSI? Here's a list of useful
 resources for you to get started.
 
 ## Getting Started
+Just getting started? A great place to get going is [SSI
+Meetup](https://ssimeetup.org/) to get your feet wet!
 
+## Specifications
 * [W3 specs](https://www.w3.org/TR/did-core/)
-* [SSI Meetup](https://ssimeetup.org/). 
 
 ## Github Organizations:
 
-* [TBDDev](https://github.com/TBD54566975)
+These are github organizations that have done lot of work on the SSI space
+related to specs, sdk's, and public resources.
+
 * [Identity Foundation](https://github.com/decentralized-identity)
 * [W3C](https://github.com/w3c)
+* [TBDDev](https://github.com/TBD54566975)
+
+## News
+* [SSI Meetup](https://ssimeetup.org/). 
 
 ## Books:
 
 * [A Comprehensive Guide to Self Sovereign Identity](https://www.amazon.in/Comprehensive-Guide-Self-Sovereign-Identity-ebook/dp/B07Q3TXLDP)
 * [Self Sovereign Identity](https://www.manning.com/books/self-sovereign-identity)
 
-# Tutorials 
+## Tutorials:
+
+Tutorials and example of using SSI in practice.
 
 * [TBD SSI Service](https://frankhinek.com/getting-started-with-tbds-ssi-service/)
 
@@ -32,6 +42,7 @@ These are organizations that are spearheading SSI efforts.
 * [Decentralized Identity Foundation](https://identity.foundation/)
 * [World Wide Web Consortium](https://www.w3.org/)
 * [TBD/Web5](https://developer.tbd.website/)
+* [SSI Meetup](https://ssimeetup.org/)
 
 ## Want to add to this repository?
 

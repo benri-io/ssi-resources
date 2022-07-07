@@ -21,12 +21,16 @@ related to specs, sdk's, and public resources.
 * [TBDDev](https://github.com/TBD54566975)
 
 ## News
-* [SSI Meetup](https://ssimeetup.org/). 
+* [SSI Meetup](https://ssimeetup.org/) 
 
 ## Books:
 
 * [A Comprehensive Guide to Self Sovereign Identity](https://www.amazon.in/Comprehensive-Guide-Self-Sovereign-Identity-ebook/dp/B07Q3TXLDP)
 * [Self Sovereign Identity](https://www.manning.com/books/self-sovereign-identity)
+
+## Registries: 
+
+* [DID Methods](https://www.w3.org/TR/did-spec-registries/#did-methods)
 
 ## Tutorials:
 
@@ -43,6 +47,8 @@ These are organizations that are spearheading SSI efforts.
 * [World Wide Web Consortium](https://www.w3.org/)
 * [TBD/Web5](https://developer.tbd.website/)
 * [SSI Meetup](https://ssimeetup.org/)
+* [HyperLedger Foundation](https://www.hyperledger.org/)
+
 
 ## Want to add to this repository?
 

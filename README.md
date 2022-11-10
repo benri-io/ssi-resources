@@ -36,7 +36,7 @@ related to specs, sdk's, and public resources.
 * [Decentralized Identity Foundation](https://github.com/decentralized-identity)
 * [Trust Over IP](https://github.com/trustoverip)
 * [W3C](https://github.com/w3c)
-* [Hyperledger Aries](https://github.com/hyperledger/)
+* [Hyperledger](https://github.com/hyperledger/)
 * [TBDDev](https://github.com/TBD54566975)
 
 ## News

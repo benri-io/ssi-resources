@@ -59,6 +59,12 @@ Tutorials and example of using SSI in practice.
 
 * [TBD SSI Service](https://frankhinek.com/getting-started-with-tbds-ssi-service/)
 
+## Gatherings:
+Digital not good enough for you? Here's a few good places to start:
+
+- [ Internet Identity Workshop (IIW)](https://internetidentityworkshop.com/)
+- [ DWeb Camp ](https://dwebcamp.org/)
+
 ## Organizations
 
 These are organizations that are spearheading SSI efforts.

@@ -14,6 +14,7 @@ For a beginner, these might get a little hard to understand. Give it time and
 patiences and the specifications will eventually make sense.
 
 * [W3 specs](https://www.w3.org/TR/did-core/)
+* [Decentralized Identity Foundation Specifications](https://identity.foundation/)
 
 ## Github Organizations:
 
@@ -23,6 +24,7 @@ related to specs, sdk's, and public resources.
 * [Decentralized Identity Foundation](https://github.com/decentralized-identity)
 * [Trust Over IP](https://github.com/trustoverip)
 * [W3C](https://github.com/w3c)
+* [Hyperledger Aries](https://github.com/hyperledger/)
 * [TBDDev](https://github.com/TBD54566975)
 
 ## News

@@ -43,11 +43,10 @@ A good read is worth ____
 
 ## Books:
 
-These won't always be free, but they are worth a read if you are interested in
-this space!
+If you're interested in a real "read". These won't always be free. 
 
-* [A Comprehensive Guide to Self Sovereign Identity](https://www.amazon.in/Comprehensive-Guide-Self-Sovereign-Identity-ebook/dp/B07Q3TXLDP)
 * [Self Sovereign Identity](https://www.manning.com/books/self-sovereign-identity)
+* [A Comprehensive Guide to Self Sovereign Identity](https://www.amazon.in/Comprehensive-Guide-Self-Sovereign-Identity-ebook/dp/B07Q3TXLDP)
 
 ## Registries: 
 

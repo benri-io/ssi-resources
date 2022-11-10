@@ -20,7 +20,8 @@ patiences and the specifications will eventually make sense.
 These are github organizations that have done lot of work on the SSI space
 related to specs, sdk's, and public resources.
 
-* [Identity Foundation](https://github.com/decentralized-identity)
+* [Decentralized Identity Foundation](https://github.com/decentralized-identity)
+* [Trust Over IP](https://github.com/trustoverip)
 * [W3C](https://github.com/w3c)
 * [TBDDev](https://github.com/TBD54566975)
 

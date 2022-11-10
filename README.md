@@ -4,6 +4,18 @@
 Interested in getting up to speed on DID's and SSI? Here's a list of useful
 resources for you to get started.
 
+## Contents 
+
+* [Specifications](#specifications)
+* [Github Organizations](#github-organizations)
+* [News](#news)
+* [Articles](#articles)
+* [Books](#books)
+* [Registries](#registries)
+* [Tutorials](#tutorials)
+* [Gatherings](#gatherings)
+* [Organizations](#organizations)
+
 ## Getting Started
 Just getting started? A great place to get going is [SSI
 Meetup](https://ssimeetup.org/) to get your feet wet!

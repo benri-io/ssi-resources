@@ -25,8 +25,8 @@ Meetup](https://ssimeetup.org/) to get your feet wet!
 For a beginner, these might get a little hard to understand. Give it time and
 patiences and the specifications will eventually make sense.
 
-* [W3 specs](https://www.w3.org/TR/did-core/)
 * [Decentralized Identity Foundation Specifications](https://identity.foundation/)
+* [W3 specs](https://www.w3.org/TR/did-core/)
 
 ## Github Organizations:
 
@@ -34,10 +34,10 @@ These are github organizations that have done lot of work on the SSI space
 related to specs, sdk's, and public resources.
 
 * [Decentralized Identity Foundation](https://github.com/decentralized-identity)
-* [Trust Over IP](https://github.com/trustoverip)
-* [W3C](https://github.com/w3c)
 * [Hyperledger](https://github.com/hyperledger/)
 * [TBDDev](https://github.com/TBD54566975)
+* [Trust Over IP](https://github.com/trustoverip)
+* [W3C](https://github.com/w3c)
 
 ## News
 
@@ -50,8 +50,8 @@ Get your updates here!
 A good read is worth ____
 
 * [An introduction to SSI](https://ssi-ambassador.medium.com/an-introduction-to-self-sovereign-identity-ssi-916eb42f0490)
-* [SSI: self-sovereign identity explained](https://medium.com/geekculture/ssi-self-sovereign-identity-explained-b7d8cb9ae9c0)
 * [Introduction to Self-Sovereign Identity and Its 10 Guiding Principles](https://medium.com/metadium/introduction-to-self-sovereign-identity-and-its-10-guiding-principles-97c1ba603872)
+* [SSI: self-sovereign identity explained](https://medium.com/geekculture/ssi-self-sovereign-identity-explained-b7d8cb9ae9c0)
 
 ## Books:
 
@@ -76,20 +76,18 @@ Tutorials and example of using SSI in practice.
 ## Gatherings:
 Digital not good enough for you? Here's a few good places to start:
 
-- [ Internet Identity Workshop (IIW)](https://internetidentityworkshop.com/)
 - [ DWeb Camp ](https://dwebcamp.org/)
+- [ Internet Identity Workshop (IIW)](https://internetidentityworkshop.com/)
 
 ## Organizations
 
 These are organizations that are spearheading SSI efforts.
 
-* [Trust Over IP](https://trustoverip.org/)
-* [Decentralized Identity Foundation](https://identity.foundation/)
 * [World Wide Web Consortium](https://www.w3.org/)
-* [TBD/Web5](https://developer.tbd.website/)
-* [SSI Meetup](https://ssimeetup.org/)
+* [Decentralized Identity Foundation](https://identity.foundation/)
 * [HyperLedger Foundation](https://www.hyperledger.org/)
-
+* [Trust Over IP](https://trustoverip.org/)
+* [TBD/Web5](https://developer.tbd.website/)
 
 ## Want to add to this repository?
 

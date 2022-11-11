@@ -17,7 +17,6 @@ resources for you to get started.
 * [Foundations](#foundations)
 * [Concepts](#concepts)
 * [Libraries](#libraries)
-
 * [Companies](#companies)
 
 ## Getting Started

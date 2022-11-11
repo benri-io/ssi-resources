@@ -14,7 +14,11 @@ resources for you to get started.
 * [Registries](#registries)
 * [Tutorials](#tutorials)
 * [Gatherings](#gatherings)
-* [Organizations](#organizations)
+* [Foundations](#foundations)
+* [Concepts](#concepts)
+* [Libraries](#libraries)
+
+* [Companies](#companies)
 
 ## Getting Started
 Just getting started? A great place to get going is [SSI
@@ -79,7 +83,7 @@ Digital not good enough for you? Here's a few good places to start:
 - [ DWeb Camp ](https://dwebcamp.org/)
 - [ Internet Identity Workshop (IIW)](https://internetidentityworkshop.com/)
 
-## Organizations
+## Foundations
 
 These are organizations that are spearheading SSI efforts.
 
@@ -87,9 +91,28 @@ These are organizations that are spearheading SSI efforts.
 * [Decentralized Identity Foundation](https://identity.foundation/)
 * [HyperLedger Foundation](https://www.hyperledger.org/)
 * [Trust Over IP](https://trustoverip.org/)
-* [TBD/Web5](https://developer.tbd.website/)
+
+## Companies
+
+* [Benri.io](http://benri.io/)
+* [Trinsic](http://trinsic.id/)
+* [Jolocom](https://jolocom.io/)
+* [TBD](https://developer.tbd.website/)
+* [Spruce Systems](https://www.spruceid.com/)
+
+## Concepts
+
+SSI means ___ 
+
+## Libraries
+
+Thigs you can use to get started in building your own stuff from scratch:
+
+* [SSI SDK](https://github.com/TBD54566975/ssi-sdk)
 
 ## Want to add to this repository?
+
+This document is early on and we're problably missing some stuff.
 
 The process for contributions are simple. Please send over a PR with your
 addition and we'll add it in if it makes sense!

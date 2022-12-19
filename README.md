@@ -57,6 +57,7 @@ A good read is worth ____
 * [Introduction to Self-Sovereign Identity and Its 10 Guiding Principles](https://medium.com/metadium/introduction-to-self-sovereign-identity-and-its-10-guiding-principles-97c1ba603872)
 * [SSI: self-sovereign identity explained](https://medium.com/geekculture/ssi-self-sovereign-identity-explained-b7d8cb9ae9c0)
 * [The Future of Integrated Digital Governance in the EU: EBSI and GLASS](https://arxiv.org/pdf/2212.03218.pdf)
+* [Wallets and Agents](https://www.windley.com/archives/2022/12/wallets_and_agents.shtml)
 
 ## Books:
 

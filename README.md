@@ -16,6 +16,7 @@ resources for you to get started.
 * [Gatherings](#gatherings)
 * [Foundations](#foundations)
 * [Concepts](#concepts)
+* [Components](#components)
 * [Libraries](#libraries)
 * [Companies](#companies)
 
@@ -55,6 +56,8 @@ A good read is worth ____
 * [An introduction to SSI](https://ssi-ambassador.medium.com/an-introduction-to-self-sovereign-identity-ssi-916eb42f0490)
 * [Introduction to Self-Sovereign Identity and Its 10 Guiding Principles](https://medium.com/metadium/introduction-to-self-sovereign-identity-and-its-10-guiding-principles-97c1ba603872)
 * [SSI: self-sovereign identity explained](https://medium.com/geekculture/ssi-self-sovereign-identity-explained-b7d8cb9ae9c0)
+* [The Future of Integrated Digital Governance in the EU: EBSI and GLASS](https://arxiv.org/pdf/2212.03218.pdf)
+* [Wallets and Agents](https://www.windley.com/archives/2022/12/wallets_and_agents.shtml)
 
 ## Books:
 
@@ -102,6 +105,27 @@ These are organizations that are spearheading SSI efforts.
 ## Concepts
 
 SSI means ___ 
+
+### Governance
+
+## Components 
+
+### File Storage
+
+* [InterPlanetary File System (IPFS)]()
+
+### Public Key Infrastructure 
+
+### Schema Registries
+
+### Trust Registries
+
+## Implementations
+
+* [European Blockchain Services Infrastructure](EBSI)
+* Glass
+* eIDAS
+* GDPR
 
 ## Libraries
 

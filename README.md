@@ -55,6 +55,7 @@ A good read is worth ____
 * [An introduction to SSI](https://ssi-ambassador.medium.com/an-introduction-to-self-sovereign-identity-ssi-916eb42f0490)
 * [Introduction to Self-Sovereign Identity and Its 10 Guiding Principles](https://medium.com/metadium/introduction-to-self-sovereign-identity-and-its-10-guiding-principles-97c1ba603872)
 * [SSI: self-sovereign identity explained](https://medium.com/geekculture/ssi-self-sovereign-identity-explained-b7d8cb9ae9c0)
+* [Towards Digital Self-Sovereignty: The Web3 Identity Stack](https://medium.com/1kxnetwork/towards-digital-self-sovereignty-the-web3-identity-stack-874d5e015bae)
 
 ## Books:
 

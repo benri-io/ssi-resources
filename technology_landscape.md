@@ -73,6 +73,7 @@ Trust Over IP ) is willing to adopt.
   - [JSON Schema](https://json-schema.org/)
   - Schema Registries
 - **Cryptography**
+  There's too many here, so I'm just going to point to a resource for now to learn more:
   - https://asecuritysite.com/
 - **Tooling**
   - [Hyperledger Aries](https://www.hyperledger.org/use/aries)

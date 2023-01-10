@@ -1,0 +1,52 @@
+# Technology Landscape
+
+- Secure Storage
+  - [Encrypted Data Vaults (EDV)](https://digitalbazaar.github.io/encrypted-data-vaults/)
+  - [Decentralized Web Nodes (DWN)](https://identity.foundation/decentralized-web-node/spec/)
+  - [Solid](https://solid.mit.edu/)
+  - [Hyperledger Secure Enclave](https://github.com/hyperledger/aries-rfcs/blob/main/features/0042-lox/README.md)
+- Protocols
+  - [DIDComm](https://didcomm.org/)
+  - [DWN (Protocol Layer)](https://identity.foundation/decentralized-web-node/spec/#protocols)
+  - [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+  - [NOSTR](https://nostr.ch/)
+- Credential Issuance
+  - [CHAPI](https://chapi.io/)
+  - [OIDCv4](https://openid.net/wordpress-content/uploads/2019/12/OpenID_Connect_4_Identity_Assurance_overview_20191219.pdf)
+  - [Hyperledger Aries Interop Profiles](https://github.com/hyperledger/aries-rfcs/blob/main/concepts/0302-aries-interop-profile/README.md)
+  - [VCAPI](https://w3c-ccg.github.io/vc-api/)
+  - [ISO mDL](https://www.iso.org/standard/69084.html)
+- Legacy
+  - [OIDC](https://www.google.com/search?q=oidc&rlz=1C5CHFA_enAE941AE941&oq=oidc&aqs=chrome.0.69i59j0i131i433i512j69i59j0i512l3j69i60l2.660j0j7&sourceid=chrome&ie=UTF-8)
+  - [LDAP](https://www.techtarget.com/searchmobilecomputing/definition/LDAP)
+  - [IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
+- Infrastructure
+  - Decentralized Identity
+    - [KERI](https://keri.one/)
+    - [Universal Resolver](https://dev.uniresolver.io/)
+    - [Trust Registries](https://wiki.trustoverip.org/display/HOME/Trust+Registry+Task+Force)
+    - [Trust Spanning](https://trustoverip.org/blog/2023/01/05/the-toip-trust-spanning-protocol/)
+  - Blockchain
+    - [ION](https://github.com/decentralized-identity/ion)
+    - [Indy](https://www.hyperledger.org/use/hyperledger-indy)
+- Wallet
+  - [Hyperledger Aries]()
+  - [Wallet Rendering](https://github.com/decentralized-identity/wallet-rendering)
+- Serialization
+  - [ACDC](https://www.ietf.org/archive/id/draft-ssmith-acdc-02.html)
+  - [SAIDs]()
+  - [SADs]()
+  - [CESR]()
+- Data Model
+  - [DID](https://www.w3.org/TR/did-core/)
+  - [Verifiable Credential](https://www.w3.org/TR/vc-data-model/)
+  - [AnonCreds](https://hyperledger-indy.readthedocs.io/projects/sdk/en/latest/docs/design/002-anoncreds/README.html)
+  - [vLEI](https://www.gleif.org/en/vlei/introducing-the-verifiable-lei-vlei)
+- Cryptography
+  - https://asecuritysite.com/
+- Tooling
+  - [Hyperledger Aries](https://www.hyperledger.org/use/aries)
+- Architecture
+  - [Trust Over IP Technology Architecture](https://trustoverip.org/wp-content/uploads/ToIP-Technical-Architecture-Specification-V1.0-PR1-2022-11-14.pdf)
+- Test Suites
+  - [Hyperledger Aries Test Suite](https://github.com/hyperledger/aries-protocol-test-suite)

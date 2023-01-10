@@ -19,6 +19,7 @@ Trust Over IP ) is willing to adopt.
   - [Decentralized Web Nodes (DWN)](https://identity.foundation/decentralized-web-node/spec/)
   - [Solid](https://solid.mit.edu/)
   - [Hyperledger Secure Enclave](https://github.com/hyperledger/aries-rfcs/blob/main/features/0042-lox/README.md)
+- **Decentralized Storage**
   - [IPFS](IPFS)
 - **Protocols**
   - [DIDComm](https://didcomm.org/)

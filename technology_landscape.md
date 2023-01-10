@@ -20,15 +20,22 @@
   - [OIDC](https://www.google.com/search?q=oidc&rlz=1C5CHFA_enAE941AE941&oq=oidc&aqs=chrome.0.69i59j0i131i433i512j69i59j0i512l3j69i60l2.660j0j7&sourceid=chrome&ie=UTF-8)
   - [LDAP](https://www.techtarget.com/searchmobilecomputing/definition/LDAP)
   - [IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
+  - [UAF](https://www.hypr.com/security-encyclopedia/fido-uaf)
+  - [U2F](https://www.yubico.com/authentication-standards/fido-u2f/)
+  - [FIDO2](https://fidoalliance.org/fido2/)
 - Infrastructure
   - Decentralized Identity
     - [KERI](https://keri.one/)
     - [Universal Resolver](https://dev.uniresolver.io/)
     - [Trust Registries](https://wiki.trustoverip.org/display/HOME/Trust+Registry+Task+Force)
     - [Trust Spanning](https://trustoverip.org/blog/2023/01/05/the-toip-trust-spanning-protocol/)
+    - Trust Support
   - Blockchain
     - [ION](https://github.com/decentralized-identity/ion)
     - [Indy](https://www.hyperledger.org/use/hyperledger-indy)
+    - [Revocation](https://hyperledger-indy.readthedocs.io/projects/hipe/en/latest/text/0011-cred-revocation/README.html)
+- Biometrics
+  - To be updated
 - Wallet
   - [Hyperledger Aries]()
   - [Wallet Rendering](https://github.com/decentralized-identity/wallet-rendering)
@@ -42,6 +49,12 @@
   - [Verifiable Credential](https://www.w3.org/TR/vc-data-model/)
   - [AnonCreds](https://hyperledger-indy.readthedocs.io/projects/sdk/en/latest/docs/design/002-anoncreds/README.html)
   - [vLEI](https://www.gleif.org/en/vlei/introducing-the-verifiable-lei-vlei)
+  - [Credential Manifest](https://github.com/decentralized-identity/credential-manifest)
+  - [Presentation Exchange](https://github.com/decentralized-identity/presentation-exchange)
+  - [JSON Web Token (JWT)](https://jwt.io/)
+  - [JSON-LD](https://json-ld.org/)
+  - [JSON Web Signatures](https://www.rfc-editor.org/rfc/rfc7515)
+  - [JSON Schema](https://json-schema.org/)
 - Cryptography
   - https://asecuritysite.com/
 - Tooling

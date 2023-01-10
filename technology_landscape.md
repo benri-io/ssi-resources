@@ -1,5 +1,14 @@
 # Technology Landscape
 
+The goal of this is to enumerate various technology in the decentralized
+identity landscape. The paper is formatted as the following:
+
+- Concepts/Categories: group various technologies together under an umbrella category
+- Items: Currently just supporting the links. I may end up providing a quick
+  summary in a future date.
+
+**Status** Work in Progress
+
 - Secure Storage
   - [Encrypted Data Vaults (EDV)](https://digitalbazaar.github.io/encrypted-data-vaults/)
   - [Decentralized Web Nodes (DWN)](https://identity.foundation/decentralized-web-node/spec/)

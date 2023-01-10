@@ -7,6 +7,9 @@ identity landscape. The paper is formatted as the following:
 - Items: Currently just supporting the links. I may end up providing a quick
   summary in a future date.
 
+This may eventually be something that I ask to see if a foundation body ( like
+Trust Over IP ) is willing to adopt.
+
 **Status:** Work in Progress
 
 ---

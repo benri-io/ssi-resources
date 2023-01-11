@@ -105,6 +105,7 @@ These are organizations that are spearheading SSI efforts.
 Thigs you can use to get started in building your own stuff from scratch:
 
 - [SSI SDK](https://github.com/TBD54566975/ssi-sdk)
+- [Hyperledger Aries (various libraries)](https://github.com/hyperledger)
 
 ## Want to add to this repository?
 

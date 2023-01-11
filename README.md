@@ -102,6 +102,13 @@ These are organizations that are spearheading SSI efforts.
 - [Jolocom](https://jolocom.io/)
 - [TBD](https://developer.tbd.website/)
 - [Spruce Systems](https://www.spruceid.com/)
+- [Provenant](https://provenant.net/)
+- [Transmute](https://transmute.industries/)
+- [Mattr](https://mattr.global/)
+
+## Landscapes
+
+- [Technology Landscape](./technology_landscape.md)
 
 ## Libraries
 

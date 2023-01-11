@@ -80,7 +80,7 @@ Trust Over IP ) is willing to adopt.
   - [JSON Schema](https://json-schema.org/)
   - [Schema Registries](https://github.com/decentralized-identity/schema-directory)
   - **Credentials:**
-    - [EU Digital COVID Certificate](<(https://commission.europa.eu/strategy-and-policy/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en)>)
+    - [EU Digital COVID Certificate](https://commission.europa.eu/strategy-and-policy/coronavirus-response/safe-covid-19-vaccines-europeans/eu-digital-covid-certificate_en)
 - **Cryptography**
   There's too many here, so I'm just going to point to a resource for now to learn more:
   - https://asecuritysite.com/

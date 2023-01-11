@@ -1,7 +1,7 @@
 # Market Landscape
 
 - **Decentralized Identity**
-  - [Benri.io](http://benri.io/)
+  - [Benri](http://benri.io/)
   - [Trinsic](http://trinsic.id/)
   - [Jolocom](https://jolocom.io/)
   - [TBD](https://developer.tbd.website/)

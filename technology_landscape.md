@@ -19,6 +19,7 @@ Trust Over IP ) is willing to adopt.
   - [Decentralized Web Nodes (DWN)](https://identity.foundation/decentralized-web-node/spec/)
   - [Solid](https://solid.mit.edu/)
   - [Hyperledger Secure Enclave](https://github.com/hyperledger/aries-rfcs/blob/main/features/0042-lox/README.md)
+  - [Secure Data Storage](https://identity.foundation/working-groups/secure-data-storage.html)
 - **Decentralized Storage**
   - [IPFS](IPFS)
 - **Protocols**
@@ -26,6 +27,7 @@ Trust Over IP ) is willing to adopt.
   - [DWN (Protocol Layer)](https://identity.foundation/decentralized-web-node/spec/#protocols)
   - [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
   - [NOSTR](https://nostr.ch/)
+  - [Grant Negotiation and Authorization Protocol (GNAP)](https://oauth.net/gnap/)
 - **Credential Issuance**
   - [CHAPI](https://chapi.io/)
   - [OIDCv4](https://openid.net/wordpress-content/uploads/2019/12/OpenID_Connect_4_Identity_Assurance_overview_20191219.pdf)
@@ -39,6 +41,8 @@ Trust Over IP ) is willing to adopt.
   - [UAF](https://www.hypr.com/security-encyclopedia/fido-uaf)
   - [U2F](https://www.yubico.com/authentication-standards/fido-u2f/)
   - [FIDO2](https://fidoalliance.org/fido2/)
+  - [Oauth2](https://oauth.net/2/)
+  - [SOIPv2](https://openid.net/specs/openid-connect-self-issued-v2-1_0.html)
 - **Infrastructure**
   - **Decentralized Identity**
     - [KERI](https://keri.one/)
@@ -50,8 +54,11 @@ Trust Over IP ) is willing to adopt.
     - [ION](https://github.com/decentralized-identity/ion)
     - [Indy](https://www.hyperledger.org/use/hyperledger-indy)
     - [Revocation](https://hyperledger-indy.readthedocs.io/projects/hipe/en/latest/text/0011-cred-revocation/README.html)
+    - [Sidetree](https://identity.foundation/sidetree/spec/)
+    - [Holochain](https://www.holochain.org/)
 - **Biometrics**
-  - To be updated
+  - [Horocrux](https://github.com/decentralized-identity/horcrux)
+  - [NIST Special Publication 800-63](https://pages.nist.gov/800-63-3/sp800-63-3.html)
 - **Wallet**
   - [Hyperledger Aries]()
   - [Wallet Rendering](https://github.com/decentralized-identity/wallet-rendering)
@@ -71,10 +78,11 @@ Trust Over IP ) is willing to adopt.
   - [JSON-LD](https://json-ld.org/)
   - [JSON Web Signatures](https://www.rfc-editor.org/rfc/rfc7515)
   - [JSON Schema](https://json-schema.org/)
-  - Schema Registries
+  - [Schema Registries](https://github.com/decentralized-identity/schema-directory)
 - **Cryptography**
   There's too many here, so I'm just going to point to a resource for now to learn more:
   - https://asecuritysite.com/
+  - [BBS Signatures](https://identity.foundation/bbs-signature/draft-irtf-cfrg-bbs-signatures.html)
 - **Tooling**
   - [Hyperledger Aries](https://www.hyperledger.org/use/aries)
   - [SSI SDK (TBD)](https://github.com/TBD54566975/ssi-sdk)

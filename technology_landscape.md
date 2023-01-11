@@ -84,8 +84,15 @@ Trust Over IP ) is willing to adopt.
   - https://asecuritysite.com/
   - [BBS Signatures](https://identity.foundation/bbs-signature/draft-irtf-cfrg-bbs-signatures.html)
 - **Tooling**
-  - [Hyperledger Aries](https://www.hyperledger.org/use/aries)
-  - [SSI SDK (TBD)](https://github.com/TBD54566975/ssi-sdk)
+  There's a lot of tools out there. So this won't be an exhuastive list.
+  - SSI Tooling
+    - [Hyperledger Aries](https://www.hyperledger.org/use/aries)
+    - [SSI SDK (TBD)](https://github.com/TBD54566975/ssi-sdk)
+    - [Trinsic SDK](https://github.com/trinsic-id/sdk)
+    - [Mattr SDK](https://mattr.global/platform/sdk/)
+    - [Jolocom SDK](https://github.com/jolocom/jolocom-sdk)
+  - Blockchain Tooling
+    - [Hyperledger Caliper](https://github.com/hyperledger/caliper)
 - **Architecture Papers**
   - [Trust Over IP Technology Architecture](https://trustoverip.org/wp-content/uploads/ToIP-Technical-Architecture-Specification-V1.0-PR1-2022-11-14.pdf)
 - **Test Suites**

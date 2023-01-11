@@ -46,120 +46,109 @@
   - [Idena](https://www.idena.io/)
 - **Blockchains**
   - Ethereum
-  - Polygon
-  - Avalanche
-  - Near
-  - Polkadot
-  - Tezos
-  - Starknet
-  - Hyperledger Indy
-  - zkSync
-  - GnosisChain
-  - Solana
-  - Celo
-  - Cosmos
-  - Arbitrum
-  - Moonbeam
+  - [Polygon](https://polygon.technology/)
+  - [Avalanche](https://www.avax.network/)
+  - [Near](https://near.org/)
+  - [Polkadot](https://polkadot.network/)
+  - [Tezos](https://tezos.com/)
+  - [Starknet](https://starkware.co/starknet/)
+  - [Hyperledger Indy](https://www.hyperledger.org/use/hyperledger-indy)
+  - [zkSync](https://zksync.io/)
+  - [GnosisChain](https://www.gnosis.io/)
+  - [Solana](https://solana.com/)
+  - [Celo](https://celo.org/)
+  - [Cosmos](https://cosmos.network/)
+  - [Arbitrum](https://arbitrum.io/)
+  - [Moonbeam](https://moonbeam.network/)
 - **Chain Data Index and Query**
-  - Covalent
-  - Goldsky
-  - Coherent
-  - Basement
-  - Dune
-  - Pnl
-  - The Graph
-  - BitQuery
-  - Transpose
-  - Kyve
-  - Luabase
-  - Moralis
+  - [Covalent](https://www.covalenthq.com/)
+  - [Goldsky](https://goldsky.com/)
+  - [Coherent](https://coherent.global/)
+  - [The Basement](https://www.basementweb3.com/)
+  - [Dune](https://dune.com/home)
+  - [Pnl](https://www.probablynothinglabs.xyz/)
+  - [The Graph](https://thegraph.com/en/)
+  - [BitQuery](https://bitquery.io/blog/blockchain-intelligence-system)
+  - [Transpose](https://www.transpose.io/)
+  - [Kyve](https://www.kyve.network/)
+  - [Luabase](https://luabase.com/)
+  - [Moralis](https://moralis.io/)
 - **Access Control and Authorization**
-  - Lit
-  - Kepler
-  - Privy
-  - Guild
-  - Unlock
-  - Token Proof
-  - Collab.Land
-  - MintGate
+  - [Lit](https://litprotocol.com/)
+  - [Kepler](https://www.kepler.xyz/)
+  - [Privy](https://www.privy.io/)
+  - [Guild](https://guild.xyz/)
+  - [Unlock](https://unlock-protocol.com/)
+  - [Token Proof](https://tokenproof.xyz/)
+  - [Collab.Land](https://www.collab.land/)
+  - [MintGate](https://www.mintgate.io/)
 - **Wallet and Key Management**
-  - Walt.id
-  - Essentials
-  - Fractical
-  - Unipass
-  - TBD
-  - Mattr
-  - Lit
-  - Metamask
-  - Polygon ID
-  - Onto
-  - zCloak
-  - Nuggets
-  - Safe
-  - Argent
-  - Pillar
-  - Frame
+  - [Walt.id](https://walt.id/)
+  - [Fractal](https://www.fractal.is/)
+  - [Unipass](https://unipass.id/)
+  - [TBD](https://www.tbd.website/)
+  - [Mattr](mattr.global)
+  - [Lit](https://litprotocol.com/)
+  - [Metamask](https://metamask.io/)
+  - [Polygon ID](https://polygon.technology/)
+  - [Onto ID](https://ontid.ont.io/)
+  - [zCloak](https://zcloak.network/)
+  - [Nuggets](https://nuggets.life/)
+  - [Argent](https://www.argent.xyz/)
+  - [Pillar](https://www.pillar.fi/)
+  - [Frame](https://frame.sh/)
 - **Authentication**
-  - Sign in with Etheruem
-  - SSX
-  - Moralis
-  - Magic
-  - WalletConnect Auth
-  - Web3Auth
-  - Dynamic
+  - [Sign in with Etheruem](https://frame.sh/)
+  - [SSX]()
+  - [Moralis](https://moralis.io/)
+  - [Magic](https://magic.link/)
+  - [WalletConnect Auth](https://docs.walletconnect.com/2.0/)
+  - [Web3Auth](https://web3auth.io/)
+  - [Dynamic](https://www.dynamic.xyz/)
 - **Reputation and Credentials**
-  - POAP
-  - Orange
-  - Disco
-  - Arcx
-  - Degensource
-  - Proved
-  - MintKudos
-  - 101
-  - karma
-  - Coinvise
-  - RabbitHole
-  - Unirep Social
-  - SISMO
-  - SourceCred
-  - Offerspace
-  - Galxe
-  - Krebit
-  - Lul Protocol
-  - Kleoverse
-  - Quest
-  - Layer3
-  - II : rep3
-  - SealCred
-  - zCloak Network
+  - [POAP}(https://poap.xyz/)
+  - [Orange](https://docs.orangeprotocol.io/)
+  - [Disco](disco.xyz)
+  - [MintKudos](https://mintkudos.xyz/)
+  - [101](https://101.xyz/)
+  - [Coinvise](https://www.coinvise.co/)
+  - [RabbitHole](https://rabbithole.gg/)
+  - [SISMO](https://www.sismo.io/)
+  - [SourceCred](https://sourcecred.io/)
+  - [Galxe](https://galxe.com/)
+  - [Krebit](https://krebit.id/)
+  - [Kleoverse](https://kleoverse.com/)
+  - [Quest](https://www.quest.ai/web3)
+  - [Layer3](https://beta.layer3.xyz/)
+  - [zCloak Network](https://zcloak.network/)
 - **Profile and Memberships**
-  - Lens
-  - CyperConnect
-  - Prysm
-  - Passage Protocol
-  - SprintRole
-  - Disco
-  - Backdrop
-  - Mazury
-  - Emaphore
-  - Profile
+  - [Lens](https://www.lens.xyz/)
+  - [CyperConnect](https://cyberconnect.me/)
+  - [Prysm](https://www.prysm.xyz/)
+  - [Passage Protocol](https://www.passage.xyz/)
+  - [SpringRole](https://springrole.com/)
+  - [Disco](disco.xyz)
+  - [Backdrop](https://backdrop.so/)
+  - [Mazury](https://mazury.xyz/)
+  - [Emaphore](https://semaphore.appliedzkp.org/)
+  - [Profile](https://profile.site/)
 - **Alias ID and Aggregators**
-  - ENS
-  - Unstoppable Domains
-  - Gitcoin passport
-  - SpaceID
-  - Bit
-  - Litentry
+  - [ENS](https://ens.domains/)
+  - [Unstoppable Domains](https://unstoppabledomains.com/)
+  - [Gitcoin passport](https://passport.gitcoin.co/)
+  - [SpaceID](https://space.id/)
+  - [Bit](https://www.did.id/)
+  - [Litentry](https://litentry.com/)
 - **Compliance KYC/AML**
-  - KYCDAO
-  - Keyring
-  - Burrato
-  - Verite
-  - Quidio
-  - NOXX
-  - Violet
-  - Blockpass
-  - Synaps
-  - Notebook
-  - AllianceBlock
-  - ZKPass
+  - [KYCDAO](https://kycdao.xyz/)
+  - [Keyring](https://keyring.app/)
+  - [Burrata](https://www.burrata.xyz/)
+  - [Verite](https://www.circle.com/en/verite)
+  - [Quidio](https://www.quidio.co/)
+  - [NOOX](https://noox.world/)
+  - [Violet](https://www.violet.co/)
+  - [Blockpass](https://www.blockpass.org/)
+  - [Synaps](https://synaps.io/)
+  - [Notebook](https://www.notebooklabs.xyz/)
+  - [AllianceBlock](https://allianceblock.io/)
+  - [ZKPass](https://zkpass.org/)

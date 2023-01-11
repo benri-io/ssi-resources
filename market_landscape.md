@@ -116,7 +116,7 @@ formatted as the following:
   - [Web3Auth](https://web3auth.io/)
   - [Dynamic](https://www.dynamic.xyz/)
 - **Reputation and Credentials**
-  - [POAP}(https://poap.xyz/)
+  - [POAP](https://poap.xyz/)
   - [Orange](https://docs.orangeprotocol.io/)
   - [Disco](disco.xyz)
   - [MintKudos](https://mintkudos.xyz/)

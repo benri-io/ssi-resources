@@ -1,5 +1,15 @@
 # Market Landscape
 
+This is an attempt to enumerate companies in the web3/web5 space. It is
+formatted as the following:
+
+- Concepts/Categories: group various technologies together under an umbrella category
+- Items: Currently just supporting the links. I may end up providing a quick summary in a future date.
+
+**Status**: Work in Progress
+
+---
+
 - **Decentralized Identity**
   - [Benri](http://benri.io/)
   - [Trinsic](http://trinsic.id/)

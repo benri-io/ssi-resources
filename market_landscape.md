@@ -162,3 +162,5 @@ formatted as the following:
   - [Notebook](https://www.notebooklabs.xyz/)
   - [AllianceBlock](https://allianceblock.io/)
   - [ZKPass](https://zkpass.org/)
+- **SSI Wallets**
+  - [SSI Wallets](https://github.com/Gimly-Blockchain/ssi-wallets)
